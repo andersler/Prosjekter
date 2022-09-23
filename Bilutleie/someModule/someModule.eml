@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="J2SE-1.5" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/../out/test/someModule"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+</component>
